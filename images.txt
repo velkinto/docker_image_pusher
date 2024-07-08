@@ -6,3 +6,4 @@
 
 alpine
 containrrr/watchtower
+node:18-alpine
