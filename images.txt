@@ -4,7 +4,7 @@
 # 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 
-alpine
-containrrr/watchtower
-node:18-alpine
-ruby:2.6.4
+# alpine
+# containrrr/watchtower
+# node:18-alpine
+--platform=linux/arm64/v8 ruby:2.6.4
