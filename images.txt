@@ -7,3 +7,4 @@
 alpine
 containrrr/watchtower
 node:18-alpine
+ruby:3.0
