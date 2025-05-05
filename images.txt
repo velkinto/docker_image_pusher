@@ -8,3 +8,4 @@
 # containrrr/watchtower
 # node:18-alpine
 --platform=linux/arm64/v8 ruby:2.6.4
+homeassistant/home-assistant
