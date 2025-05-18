@@ -12,3 +12,4 @@ homeassistant/home-assistant
 rehiy/dailyhot
 --platform=linux/arm64 python:3.12-slim
 --platform=linux/arm64 node:20-alpine
+--platform=linux/arm64 supercorp/supergateway
