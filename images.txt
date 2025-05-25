@@ -14,3 +14,4 @@ rehiy/dailyhot
 --platform=linux/arm64 node:20-alpine
 --platform=linux/arm64 supercorp/supergateway
 --platform=linux/arm64 codercom/code-server
+--platform=linux/arm64 linuxserver/code-server
